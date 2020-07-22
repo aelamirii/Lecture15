@@ -15,7 +15,7 @@ function CounterController($scope, $timeout) {
   // $scope.counter++;
   // console.log("Counter incremented !");
 
-// 3ed methode: Find angular specific service
+// 3rd methode: Find angular specific service
 // that handles the same functionnality
   $timeout(function () {
 
